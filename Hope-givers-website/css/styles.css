@@ -1,0 +1,26 @@
+/* Custom styles */
+/* Add your custom styles here */
+
+/* Background Image */
+
+.background-image {
+    background-image: url("img/girls.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /* Adjust as needed */
+    /*color: white;
+    /* Text color on top of the image */
+
+
+    /* Organization Name */
+    /*.organization-name {
+    color: white;
+    font-size: 2rem;
+    /*Adjust font size as needed */
+}
+
+
+h1 {
+    text-align: center;
+}
